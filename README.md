@@ -1,5 +1,7 @@
 Install Instructions
 @Copyright 2026 Sithula Vithanage original owner, created by Sithula
+Note: If you are looking for commits, they are down in the releases page to show what was done each date
+
 1. Download file from releases
 2. Extract Zip File
 3. To run application, go to \myworld\hulaicecream\
