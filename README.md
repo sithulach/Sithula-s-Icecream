@@ -1,4 +1,5 @@
 Install Instructions
+Note: If you want to see commits in what was done each stage, look in releases
 @Copyright 2026 Sithula Vithanage original owner, created by Sithula
 1. Download file from releases
 2. Extract Zip File
